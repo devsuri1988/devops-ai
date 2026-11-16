@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "DevOps AI",
+  title: "AMPLIFY",
   description: "My Next.js application",
 };
 
