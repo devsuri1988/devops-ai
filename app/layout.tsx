@@ -1,5 +1,5 @@
 export const metadata = {
-  title: "AMPLIFY",
+  title: "AMPLIFY...",
   description: "My Next.js application",
 };
 
